@@ -1,12 +1,28 @@
-![21 Savage](public/21savage.jpg)
+# ToDo List (Server-side)
+Recreating an previous project to do list app but on the server side
 
-## Installation
+**Link to project:** TBA
 
-1. Clone repo
-2. run `npm install`
+## How It's Made:
 
-## Usage
+**Tech used:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB
 
-1. run `npm run savage`
-2. Navigate to `localhost:2000`
-s
+Learning CRUD through this project,
+
+
+## Lessons Learned:
+
+There was a lot going through starter files and navigate what go where and why but as I work my way through bit by bit I starter to understand more how the server handles requests.
+
+## Examples:
+TBA
+
+## How To Run it:
+
+1. Navigate to `localhost:2000`
+
+
+
+
+
+
